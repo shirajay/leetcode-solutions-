@@ -12,14 +12,19 @@ var search = function(nums, target) {
 
         // Left half is sorted
         if (nums[left] <= nums[mid]) {
+
+            // Target lies in the sorted left half
             if (nums[left] <= target && target < nums[mid]) {
                 right = mid - 1;
             } else {
                 left = mid + 1;
             }
-        }
+
+        } 
         // Right half is sorted
         else {
+
+            // Target lies in the sorted right half
             if (nums[mid] < target && target <= nums[right]) {
                 left = mid + 1;
             } else {
