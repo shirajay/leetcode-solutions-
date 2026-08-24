@@ -22,6 +22,7 @@
 | [0031-next-permutation](https://github.com/shirajay/leetcode-solutions-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shirajay/leetcode-solutions-/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0039-combination-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shirajay/leetcode-solutions-/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
