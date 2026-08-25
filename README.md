@@ -6,6 +6,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/shirajay/leetcode-solutions-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +40,11 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0040-combination-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
