@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/shirajay/leetcode-solutions-/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/shirajay/leetcode-solutions-/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
@@ -53,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shirajay/leetcode-solutions-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/shirajay/leetcode-solutions-/tree/master/0070-climbing-stairs) |
 ## Math
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/shirajay/leetcode-solutions-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
