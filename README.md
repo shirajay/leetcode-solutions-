@@ -31,6 +31,7 @@
 | [0046-permutations](https://github.com/shirajay/leetcode-solutions-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
+| [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -85,4 +86,20 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shirajay/leetcode-solutions-/tree/master/0010-regular-expression-matching) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
