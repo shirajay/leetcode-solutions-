@@ -27,6 +27,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shirajay/leetcode-solutions-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shirajay/leetcode-solutions-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shirajay/leetcode-solutions-/tree/master/0046-permutations) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shirajay/leetcode-solutions-/tree/master/0046-permutations) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shirajay/leetcode-solutions-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -104,5 +107,14 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shirajay/leetcode-solutions-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
