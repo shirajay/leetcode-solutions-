@@ -26,6 +26,7 @@
 | [0031-next-permutation](https://github.com/shirajay/leetcode-solutions-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shirajay/leetcode-solutions-/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/shirajay/leetcode-solutions-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shirajay/leetcode-solutions-/tree/master/0046-permutations) |
@@ -73,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shirajay/leetcode-solutions-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -101,5 +103,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shirajay/leetcode-solutions-/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
