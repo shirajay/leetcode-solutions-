@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shirajay/leetcode-solutions-/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shirajay/leetcode-solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/shirajay/leetcode-solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
