@@ -38,6 +38,7 @@
 | [0041-first-missing-positive](https://github.com/shirajay/leetcode-solutions-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/shirajay/leetcode-solutions-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/shirajay/leetcode-solutions-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
@@ -64,6 +65,7 @@
 | [0039-combination-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shirajay/leetcode-solutions-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shirajay/leetcode-solutions-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/shirajay/leetcode-solutions-/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
