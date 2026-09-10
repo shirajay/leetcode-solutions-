@@ -39,6 +39,7 @@
 | [0046-permutations](https://github.com/shirajay/leetcode-solutions-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shirajay/leetcode-solutions-/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shirajay/leetcode-solutions-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shirajay/leetcode-solutions-/tree/master/0070-climbing-stairs) |
 ## Math
 |  |
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shirajay/leetcode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
