@@ -42,6 +42,7 @@
 | [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
@@ -99,6 +100,7 @@
 | [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shirajay/leetcode-solutions-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0036-valid-sudoku](https://github.com/shirajay/leetcode-solutions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 ## Algorithm X
 |  |
