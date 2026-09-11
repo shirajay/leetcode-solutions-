@@ -41,6 +41,7 @@
 | [0051-n-queens](https://github.com/shirajay/leetcode-solutions-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
@@ -80,6 +81,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shirajay/leetcode-solutions-/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
