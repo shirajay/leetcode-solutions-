@@ -12,6 +12,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shirajay/leetcode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shirajay/leetcode-solutions-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shirajay/leetcode-solutions-/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shirajay/leetcode-solutions-/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -110,6 +112,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
 ## Recursion
 |  |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
