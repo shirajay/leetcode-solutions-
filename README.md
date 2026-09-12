@@ -82,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shirajay/leetcode-solutions-/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shirajay/leetcode-solutions-/tree/master/0070-climbing-stairs) |
 ## Memoization
