@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shirajay/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shirajay/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -178,4 +180,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shirajay/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shirajay/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
