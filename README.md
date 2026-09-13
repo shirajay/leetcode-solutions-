@@ -48,6 +48,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shirajay/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -58,6 +59,7 @@
 | [0027-remove-element](https://github.com/shirajay/leetcode-solutions-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shirajay/leetcode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shirajay/leetcode-solutions-/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/shirajay/leetcode-solutions-/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
