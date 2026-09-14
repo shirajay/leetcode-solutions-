@@ -52,6 +52,7 @@
 | [0090-subsets-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shirajay/leetcode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/shirajay/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -90,6 +91,7 @@
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shirajay/leetcode-solutions-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shirajay/leetcode-solutions-/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/shirajay/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
 | ------- |
