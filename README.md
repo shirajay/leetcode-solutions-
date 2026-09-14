@@ -51,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shirajay/leetcode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -185,6 +186,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shirajay/leetcode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -201,8 +203,14 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shirajay/leetcode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shirajay/leetcode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shirajay/leetcode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
