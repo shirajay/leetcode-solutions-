@@ -50,6 +50,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/shirajay/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -112,6 +113,7 @@
 | [0041-first-missing-positive](https://github.com/shirajay/leetcode-solutions-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -194,4 +197,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shirajay/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
