@@ -44,6 +44,7 @@
 | [0051-n-queens](https://github.com/shirajay/leetcode-solutions-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shirajay/leetcode-solutions-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/shirajay/leetcode-solutions-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
@@ -89,6 +90,7 @@
 | [0010-regular-expression-matching](https://github.com/shirajay/leetcode-solutions-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shirajay/leetcode-solutions-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shirajay/leetcode-solutions-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shirajay/leetcode-solutions-/tree/master/0072-edit-distance) |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shirajay/leetcode-solutions-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shirajay/leetcode-solutions-/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
