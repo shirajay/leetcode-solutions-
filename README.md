@@ -43,6 +43,7 @@
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shirajay/leetcode-solutions-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shirajay/leetcode-solutions-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shirajay/leetcode-solutions-/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
@@ -151,6 +152,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/shirajay/leetcode-solutions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shirajay/leetcode-solutions-/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/shirajay/leetcode-solutions-/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
@@ -192,6 +194,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shirajay/leetcode-solutions-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
 ## Monotonic Stack
 |  |
