@@ -60,6 +60,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shirajay/leetcode-solutions-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/shirajay/leetcode-solutions-/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shirajay/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -150,15 +151,18 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shirajay/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shirajay/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shirajay/leetcode-solutions-/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shirajay/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
@@ -168,6 +172,7 @@
 | [0054-spiral-matrix](https://github.com/shirajay/leetcode-solutions-/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/shirajay/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 ## Algorithm X
 |  |
