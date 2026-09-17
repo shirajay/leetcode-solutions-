@@ -61,6 +61,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shirajay/leetcode-solutions-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/shirajay/leetcode-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shirajay/leetcode-solutions-/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/shirajay/leetcode-solutions-/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/shirajay/leetcode-solutions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shirajay/leetcode-solutions-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -241,4 +242,5 @@
 | ------- |
 | [0055-jump-game](https://github.com/shirajay/leetcode-solutions-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/shirajay/leetcode-solutions-/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
