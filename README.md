@@ -73,6 +73,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shirajay/leetcode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shirajay/leetcode-solutions-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/shirajay/leetcode-solutions-/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shirajay/leetcode-solutions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shirajay/leetcode-solutions-/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/shirajay/leetcode-solutions-/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/shirajay/leetcode-solutions-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/shirajay/leetcode-solutions-/tree/master/0141-linked-list-cycle) |
 ## String Matching
 |  |
 | ------- |
@@ -243,4 +246,8 @@
 | [0055-jump-game](https://github.com/shirajay/leetcode-solutions-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shirajay/leetcode-solutions-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shirajay/leetcode-solutions-/tree/master/0135-candy) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shirajay/leetcode-solutions-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
