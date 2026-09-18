@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/shirajay/leetcode-solutions-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shirajay/leetcode-solutions-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/shirajay/leetcode-solutions-/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/shirajay/leetcode-solutions-/tree/master/0072-edit-distance) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@
 | [0055-jump-game](https://github.com/shirajay/leetcode-solutions-/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/shirajay/leetcode-solutions-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/shirajay/leetcode-solutions-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shirajay/leetcode-solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shirajay/leetcode-solutions-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shirajay/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/shirajay/leetcode-solutions-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/shirajay/leetcode-solutions-/tree/master/0068-text-justification) |
 ## Monotonic Stack
 |  |
 | ------- |
