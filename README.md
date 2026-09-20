@@ -14,11 +14,13 @@
 | [0058-length-of-last-word](https://github.com/shirajay/leetcode-solutions-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shirajay/leetcode-solutions-/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/shirajay/leetcode-solutions-/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shirajay/leetcode-solutions-/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shirajay/leetcode-solutions-/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/shirajay/leetcode-solutions-/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shirajay/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
