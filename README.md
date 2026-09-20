@@ -82,6 +82,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shirajay/leetcode-solutions-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shirajay/leetcode-solutions-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shirajay/leetcode-solutions-/tree/master/0069-sqrtx) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0007-reverse-integer](https://github.com/shirajay/leetcode-solutions-/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/shirajay/leetcode-solutions-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shirajay/leetcode-solutions-/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shirajay/leetcode-solutions-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shirajay/leetcode-solutions-/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shirajay/leetcode-solutions-/tree/master/0133-clone-graph) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shirajay/leetcode-solutions-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
